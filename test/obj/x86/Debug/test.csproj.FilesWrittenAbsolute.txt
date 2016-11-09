@@ -1,0 +1,7 @@
+/Users/jessy/Projects/test/test/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/jessy/Projects/test/test/bin/Debug/test.exe.config
+/Users/jessy/Projects/test/test/bin/Debug/test.exe.mdb
+/Users/jessy/Projects/test/test/bin/Debug/test.exe
+/Users/jessy/Projects/test/test/obj/x86/Debug/test.exe
+/Users/jessy/Projects/test/test/obj/x86/Debug/test.exe.mdb
+/Users/jessy/Projects/test/test/bin/Debug/MySql.Data.dll
